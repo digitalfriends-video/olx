@@ -3,7 +3,7 @@
   <Ad id="DF-video">
     <InLine>
       <AdSystem version="1.0">DF-video_v01</AdSystem>
-      <AdTitle>OLX-WAKACJE_D15s_v01_16x09</AdTitle>
+      <AdTitle>OlxWakacjeD15v1-16X09</AdTitle>
       <Impression><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N464420.110317WP.PL/B33499919.424168916;dc_trk_aid=616923450;dc_trk_cid=235776196;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?]]></Impression>
 
       <Creatives>
@@ -21,7 +21,7 @@
 
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="640" height="360" bitrate="500">
-                <![CDATA[https://digitalfriends-video.github.io/olx/OlxWakacjeA15-09X16.mp4]]>
+                <![CDATA[https://digitalfriends-video.github.io/olx/OlxWakacjeD15v1-16X09_test.mp4]]>
               </MediaFile>
             </MediaFiles>
 
